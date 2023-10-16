@@ -1,8 +1,8 @@
-const isPositive= n=>{ 
+const Positivo= n=>{ 
     if(n>0){
         console.log('positivo')
     }
 
 }
 
-isPositive(1)
+Positivo(1)
