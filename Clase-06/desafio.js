@@ -106,7 +106,7 @@ class ProductManager{
 async function main(){
 let test = new ProductManager({ruta: 'productos.json'})
 await test.init()
-//await test.addProduct(1,1,1,1,21,1)
+await test.addProduct(1,1,1,1,21,1)
 //test.addProduct(2,2,2,2,2,2)
 //test.deleteProduct(99)
 await test.getProducts()
