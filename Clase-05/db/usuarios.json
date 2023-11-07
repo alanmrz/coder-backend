@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "alan",
+    "apellido": "mm",
+    "usuario": "amartinez",
+    "contrasenia": "a448ec28b4701e1a5f5422fae4a72756b85f78daf61331aa5cc0f5ed879dbbcb",
+    "id": "6e6aefea-2687-4715-a6af-0e4f472d2660",
+    "salt": "ePnWQQairVWjA95q+1CxD+skpDSYSZcwo0qVp5LlAD1BfhptLYZ9+zoG8hBd0pKv4b5ZbN2ObtTeR4m3RA9IrT4kwAPbdHOtz1WKAoZsK8VSjogYmZ8nYcPdmO2KpwcHkBfOeTc0pt5riMrZdtiLDnbHxeMBle1qud3RbS0a3Gk="
+  },
+  {
+    "nombre": "alan",
+    "apellido": "mm",
+    "usuario": "amartinez",
+    "contrasenia": "c1289d548241b7d68b5ab69ef1a2e33ceb58a2aba1bfdcd9e2458a42b76e7da9",
+    "id": "52abf6ff-2c95-490b-85f3-e6f5e2b498a1",
+    "salt": "Tb6z/PmrXTZMPwZGuNrdQqbEOg/ikrtuLAV1oRceCP2Y5X26bMMyIAOHPgCKkcSwn/ilVHuDkSDE4A+LLe5lo6FXZ5F+YrGzkihxDoZgZvamltEEP2ksp3lkZMrgn2x3hwX6woWBUoTHPscaBH+I8nraeQ1WdbTSGEJ0SWTgwgo="
+  },
+  {
+    "nombre": "alan",
+    "apellido": "mm",
+    "usuario": "amartinez",
+    "contrasenia": "79e3b86e08ed8bfe98dcf33e3678eb792ef1d25ffb02c6e4f7e495b2fc7ea9c5",
+    "id": "dfc70bc4-506e-4f8f-8d94-9b2c88b836ad",
+    "salt": "EGMebjHuxzE/N+lUWIuY5zo8YCLND/nT/oyYmNz4x5Ts5yCWPvYxkccHA/y+CtIswPerUiJbOhRwkWpfQ8kWQGoccL/fV3m9kTGRjEx1QhyHJ0i0ut0OwtAPndnAryWyhV/UAXPTPaZjQtBfOpIavWlFh4TIDo8a0TZrIpTyObM="
+  },
+  {
+    "nombre": "alan",
+    "apellido": "mm",
+    "usuario": "amartinez",
+    "contrasenia": "ed296106baaf58abb0da329e3d95312b83858879f5abadcfb6412e9a62e8d3c2",
+    "id": "3f8bb943-a7c4-4f19-8e68-5034040f5152",
+    "salt": "unxhD0CsIUkdXnSaI9MYLf/vQk/akSlnb/mviKvOnRz3Zp1iTOxHqJUBMCNokpLsCUHkOB1aA3aJUWYm+XHJowAzHiGFLSfKwLuOE1ld78krVTfxGopd0wA1WMKaV3uFuTp1eZF+u3/1bOIscRlircHzW9iZphLuD0/RCGekzf4="
+  },
+  {
+    "nombre": "alan",
+    "apellido": "mm",
+    "usuario": "amartinez",
+    "contrasenia": "1f4b5105d5a75d8286e8d1336d3de53558f64ecd5ed47afbba3a38da86cf9e6f",
+    "id": "f1b2c0a6-4a7c-469b-88c4-89fb54bdaa09",
+    "salt": "z58caTYSb3tob1c3tv7lp09UFILyRkVwj1XOA1FeZpAvnnsdTk+WV8NRjU/PYNLXYg64Q8tF4e0gX/4C+FbWoWgRnlxOg4E+EF8D/+bRpZtKWLzwIlNMZLMdvGj5nb/flfg1occgUAuvofUIBIl7ixH+CuyewZSm3tmvRagvp3U="
+  }
+]
